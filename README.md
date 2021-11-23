@@ -1,0 +1,1 @@
+# Insan-Bilgisayar-Etkile-imi
