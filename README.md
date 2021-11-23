@@ -1,1 +1,1 @@
-# Insan-Bilgisayar-Etkile-imi
+# Insan-Bilgisayar-Etkilesimi dersi için yapılan tıklanabilir Türkiye haritası
